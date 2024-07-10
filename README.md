@@ -1,8 +1,11 @@
-## Hi there 👋
+## hey
 
-I'm Amina :)
+i'm amina & currently learning the very basics
 
-🌱 I’m currently learning ... the very basics!
+enjoy this random breakspeare painting while you're here!
+
+![william a breakspeare](https://github.com/amina-els/amina-els/assets/175220479/2854cd6b-2dfa-450b-93e2-2ab6def99036)
+
 
 
 <!--
@@ -11,7 +14,7 @@ I'm Amina :)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
